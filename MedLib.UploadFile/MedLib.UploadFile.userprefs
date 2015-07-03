@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="MedLib.UploadFile/MedLib.UploadFile.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="MonoDebug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MedLib.UploadFile/Modules/UploadModule.cs">
+    <Files>
+      <File FileName="../MedLib/MedLib.Utils/Text/StreamHelper.cs" Line="8" Column="47" />
+      <File FileName="MedLib.UploadFile/app.config" Line="1" Column="1" />
+      <File FileName="MedLib.UploadFile/Modules/UploadModule.cs" Line="26" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
